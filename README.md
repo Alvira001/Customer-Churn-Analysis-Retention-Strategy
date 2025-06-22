@@ -61,12 +61,14 @@ After downloading:
    cd customer_churn_analysis
 
 Install the required Python packages
+```bash
 pip install -r requirements.txt
 
 Download the dataset and place it in
 data/telco_churn.csv
 
 Run the analysis
+```bash
 python churn_analysis.py
 
 Explore churn_predictions.csv in Power BI to build dashboards
