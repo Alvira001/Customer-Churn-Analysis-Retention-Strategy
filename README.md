@@ -28,17 +28,7 @@ This end-to-end data analytics project explores customer churn behavior in a tel
 
 ---
 
-## 📁 Project Structure
-customer_churn_analysis/
-│
-├── data/
-│ └── telco_churn.csv ← [Download instructions below]
-├── churn_analysis.py ← Main Python script
-├── churn_predictions.csv ← Output for BI tools
-├── feature_importance.png ← Top 10 churn drivers chart
-├── requirements.txt ← Python dependencies
-└── README.md ← This file
-
+<pre> ```text ## 📁 Project Structure customer_churn_analysis/ │ ├── data/ │ └── telco_churn.csv ← [Download instructions below] ├── churn_analysis.py ← Main Python script ├── churn_predictions.csv ← Output for BI tools ├── feature_importance.png ← Top 10 churn drivers chart ├── requirements.txt ← Python dependencies └── README.md ← This file ``` </pre>
 ---
 
 ## 📦 Dataset (Required)
@@ -63,14 +53,14 @@ After downloading:
 
 2. Install the required Python packages
 ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
 ```
 3. Download the dataset and place it in
 data/telco_churn.csv
 
 4. Run the analysis
 ```bash
-python churn_analysis.py
+   python churn_analysis.py
 ```
 Explore churn_predictions.csv in Power BI to build dashboards
 
