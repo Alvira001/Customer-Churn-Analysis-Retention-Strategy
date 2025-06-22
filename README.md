@@ -27,7 +27,9 @@ This end-to-end data analytics project explores customer churn behavior in a tel
 | **Git/GitHub**    | Version control and portfolio showcase            |
 
 ---
-customer_churn_analysis/
+
+## 📁 Project Structure
+```customer_churn_analysis/
 │
 ├── data/
 │   └── telco_churn.csv       ← [Download instructions below]
@@ -36,7 +38,7 @@ customer_churn_analysis/
 ├── feature_importance.png    ← Top 10 churn drivers chart
 ├── requirements.txt          ← Python dependencies
 └── README.md                 ← This file
-
+```
 ---
 
 ## 📦 Dataset (Required)
