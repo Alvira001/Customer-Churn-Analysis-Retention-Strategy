@@ -28,7 +28,7 @@ This end-to-end data analytics project explores customer churn behavior in a tel
 
 ---
 
-```text ## 📁 Project Structure customer_churn_analysis/ │ ├── data/ │ └── telco_churn.csv ← [Download instructions below] ├── churn_analysis.py ← Main Python script ├── churn_predictions.csv ← Output for BI tools ├── feature_importance.png ← Top 10 churn drivers chart ├── requirements.txt ← Python dependencies └── README.md ← This file ```
+<pre> ``` ## 📁 Project Structure customer_churn_analysis/ │ ├── data/ │ └── telco_churn.csv ← [Download instructions below] ├── churn_analysis.py ← Main Python script ├── churn_predictions.csv ← Output for BI tools ├── feature_importance.png ← Top 10 churn drivers chart ├── requirements.txt ← Python dependencies └── README.md ← This file ``` </pre>
 ---
 
 ## 📦 Dataset (Required)
